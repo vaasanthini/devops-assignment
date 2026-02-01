@@ -1,2 +1,2 @@
 ## Task Assignments
-- Task 1: Documentation – Owner
+- Task 1: Documentation – Owner & Collaborator (Sri Lakshmi)
